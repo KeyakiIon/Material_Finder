@@ -4,7 +4,7 @@
 更新情報・使い方・お問い合わせに関するページ
 	https://sites.google.com/view/keyakiion/programhistory
 
-本体ver3.0.0
+本体ver3.0.1
 
 留意事項
 	本バージョンは以前のバージョンと互換性がありません。
